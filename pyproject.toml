@@ -1,0 +1,14 @@
+[project]
+name = "turboml-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "fastparquet>=2024.11.0",
+    "jupyter>=1.1.1",
+    "loguru>=0.7.3",
+    "pandas>=2.2.3",
+    "requests>=2.32.3",
+    "turboml-installer>=0.0.5",
+]
