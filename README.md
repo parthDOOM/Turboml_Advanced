@@ -120,6 +120,7 @@ Once you have these tools installed, you
 - run the command palette (Ctrl+Shift+P) and select `Dev Containers: Reopen in Container`
 
 You are all set.
+### **YET TO BE COMPLETED**
 
 ### 1. Set up the feature pipeline
 
